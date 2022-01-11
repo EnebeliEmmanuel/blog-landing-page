@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "responsive blog landing page",
   "main": "index.js",
-  "homepage": "https://blog-landing-page.github.io/responsive-blog-landing-page",
+  "homepage": "https://EnebeliEmmanuel.github.io/blog-landing-page",
   "scripts": {
     "sass": "node-sass -w scss/ -o dist/css/ --recursive",
     "deploy": "gh-pages -d dist"
